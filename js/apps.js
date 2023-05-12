@@ -1,3 +1,3 @@
-const saludo = ()=>{
+const saludar = ()=>{
 alert('Holaaaa!');
 }
